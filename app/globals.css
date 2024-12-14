@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  body {
+    @apply font-gilroy;
+  } 
+}
+
+.nig {
+  background-image: url(../public/images/nigeria.svg);
+    /* background-size: ; */
+    background-position: center;
+    background-repeat: no-repeat;
+    /* width: 500px;
+    background-color: black; */
+}
