@@ -24,7 +24,7 @@ const Transform = () => {
             <Button
              type='button'
              title='Join the Challenge'
-             className="bg-black font-semibold rounded-xl text-center py-4 px-52 text-[#7CECA7] cursor-pointer text-lg"
+             className="bg-black font-semibold rounded-xl text-center py-4 px-52 text-[#7CECA7] cursor-pointer text-lg dark:bg-white "
              />
             </div>
     </div>

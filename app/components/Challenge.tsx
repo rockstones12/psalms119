@@ -6,7 +6,7 @@ import Button from './Button'
 
 const Challenge = () => {
   return (
-    <div className=' flex justify-between px-20 py-24'>
+    <div className=' flex justify-between px-20 py-24' id='challenge'>
         <div className='w-2/5 text-white'>
          <p className='text-6xl font-bold'> The challenge <br /> is in 3 Steps;</p>
             <div className='relative w-full'>

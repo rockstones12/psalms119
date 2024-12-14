@@ -54,7 +54,9 @@ export default function RootLayout({
       <body className={`${gilroy.variable}  ${rowdies.variable} antialiased`} >
         <Navbar/>
         {children}
+        <div>
         <Footer/>
+        </div>
       </body>
     </html>
   );

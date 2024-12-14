@@ -11,7 +11,7 @@ import psalms from "../../public/psalms.svg"
 
 const Benefit = () => {
   return (
-    <div className="text-white py-14 px-20 ">
+    <div className="text-white py-14 px-20 " id="benefit">
       <h2 className="text-6xl font-bold text-center mb-14">The Benefits</h2>
       <div className="flex flex-col justify-center items-center gap-16 py-6">
         <div className="bg-[#FFF1B8] bg-opacity-5 text-[#FFF1B8] px-14 py-6 w-3/5 rounded-lg relative">

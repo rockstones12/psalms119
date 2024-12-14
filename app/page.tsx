@@ -9,7 +9,7 @@ import Transform from "./components/Transform";
 
 export default function Home(){
   return(
-    <main>
+    <main className=" dark:bg-black">
      <Hero/>
      <Scholarship/>
         <div className=" bg-[url('/images/color.png')] bg-cover bg-center">

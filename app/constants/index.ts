@@ -1,7 +1,7 @@
 
 export const NAV_LINKS = [
-    { href: '/challenge', key: 'challenge', label: 'The Challenge' },
-    { href: '/benefit', key: 'benefit', label: 'The Benefit' }
+    { href: '#challenge', key: 'challenge', label: 'The Challenge' },
+    { href: '#benefit', key: 'benefit', label: 'The Benefit' }
 
 ];
 
