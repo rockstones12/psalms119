@@ -40,7 +40,7 @@ const FAQItem: React.FC<FAQItemProps> = ({ id, question, answer, isOpen, setData
           className="flex items-center justify-between p-4 cursor-pointer"
           onClick={handleToggle}
         >
-          <span className="text-white font-normal">{question}</span>
+          <span className="text-white font-semibold">{question}</span>
           <SlArrowDown 
             className={`text-white transform transition-transform duration-300 ${
               isOpen ? 'rotate-180' : 'rotate-0'

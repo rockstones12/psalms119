@@ -11,7 +11,7 @@ const Navbar = () => {
 
 
     return (
-    <nav className='z-20 sticky top-0 flex justify-between items-center py-5 px-20 bg-gradient-to-b from-[#f9fff9] to-[#fff] dark:from-[#0f0f0f] dark:to-[#000] max-[768px]:px-4 shadow-sm'>
+    <nav className='flex justify-between items-center py-5 px-20 bg-gradient-to-b from-[#f9fff9] to-[#fff] dark:from-[#0f0f0f] dark:to-[#000] max-[768px]:px-4 shadow-sm'>
 
         <ul className='hidden  lg:gap-20 -full lg:flex font-normal text-lg'>
         {NAV_LINKS.map((link) => (

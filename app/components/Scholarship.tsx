@@ -14,7 +14,7 @@ const Scholarship = () => {
         />
       </div>
       <div className="w-full md:w-3/5 space-y-14">
-        <h2 className="text-[45px] leading-[40px] font-bold">
+        <h2 className="text-[45px] leading-[40px] font-extrabold dark:text-black">
           Earn up to <span className=' text-secondary dark:text-[#7CECA7] '>₦3,000,000.00;</span> <br /> 
           <span className='text-[#EF8FFF] dark:text-primary'>
             Educational Scholarships & much <br /> more in opportunities.
